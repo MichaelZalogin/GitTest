@@ -7,5 +7,8 @@ public class TestClass {
         System.out.println("Test git3");
         System.out.println("Test git4");
         System.out.println("Test git5");
+        System.out.println("Test git7");
+        System.out.println("Test git8");
+        System.out.println("Test git9");
     }
 }
