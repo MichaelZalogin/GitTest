@@ -1,6 +1,5 @@
-<h1><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" height="30"/></h1>
+<h1> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" height="30"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" height="30"/> </h1>
 
+# _Тестирование работы Git + GitHub_
 
-# _Тестирование работы Git_
-___
-## Тренировка с командами терминала
+#### Тренировка с командами терминала, работа с исключениями, оформление документации. 
