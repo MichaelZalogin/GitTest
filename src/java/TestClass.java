@@ -11,5 +11,7 @@ public class TestClass {
         System.out.println("Test git8");
         System.out.println("Test git9");
         System.out.println("Test git10");
+        System.out.println("Test git11");
+        System.out.println("Test git12");
     }
 }
