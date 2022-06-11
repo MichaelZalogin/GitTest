@@ -3,3 +3,5 @@
 # _Тестирование работы Git + GitHub_
 
 #### Тренировка с командами терминала, работа с исключениями, оформление документации. 
+
+##### Видеокурс https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH
