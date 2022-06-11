@@ -5,5 +5,8 @@ public class GitTest {
         System.out.println("Локальное изменение в ветке develop #2");
         System.out.println("Локальное изменение в ветке develop #3");
         System.out.println("Локальное изменение в ветке develop #4");
+        System.out.println("Локальное изменение в ветке develop #5");
+        System.out.println("Локальное изменение в ветке develop #6");
+        System.out.println("Локальное изменение в ветке develop #7");
     }
 }
